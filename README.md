@@ -1,1 +1,1 @@
-This is a group project done by Sammy
+This is AirBnB_clone_v2 group project
